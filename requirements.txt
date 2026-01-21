@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-mcp-adapters
+openai
+python-dotenv
+aiosqlite
+requests
+httpx
+streamlit
